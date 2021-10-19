@@ -1,1 +1,2 @@
-## h2 UnityNFCReader[D[D[D[D[D[D[D[D[D[D[CCustomNFCReader
+## h2 UnityNFCReader
+Custom NFC Reader for Unity Android
